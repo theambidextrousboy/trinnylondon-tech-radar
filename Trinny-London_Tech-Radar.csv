@@ -1,0 +1,52 @@
+name,ring,quadrant,isNew,description
+GCP Vertex AI,Adopt,Platforms,TRUE,"<p><strong><a href=""https://cloud.google.com/vertex-ai"">GCP Vertex AI</a></strong> is a unified artificial intelligence platform that allows teams to build, deploy and scale machine-learning (ML) models. Vertex AI includes pretrained models, which can be used directly, fine-tuned or combined with <a href=""/radar/techniques/automated-machine-learning-automl"">AutoML</a>, as well as infrastructure such as feature stores and pipelines for ML models. We like Vertex AI's integrated capabilities, which help to make it feel like a coherent AI platform.</p>"
+Snowplow,Adopt,Tools,FALSE,"<p><strong><a href=""https://snowplow.io"">Snowplow's</a></strong> Behavioral Data Platform (BDP) enables you to create and operationalize rich, first-party customer behavioral data to fuel advanced data-driven use cases – directly from your data warehouse or data lake in real-time.</p>"
+ThoughSpot,Trial,Platforms,TRUE,"<p><strong><a href=""https://www.thoughtspot.com"">ThoughtSpot</a></strong> Self-service analytics for your modern data stack. ThoughtSpot's intuitive, Google-like search interface makes it easy to interact with cloud data from Snowflake, Google Big Query, Redshift, Databricks and more so you can get to your “why” faster.</p>"
+Trunk Based Development,Hold,Techniques,TRUE,"<p><strong><a href=""https://trunkbaseddevelopment.com"">Trunk Based Development</a></strong> is a source-control branching model, where developers collaborate on code in a single branch called ‘trunk’ *, resist any pressure to create other long-lived development branches by employing documented techniques. They therefore avoid merge hell, do not break the build, and live happily ever after. This is already practised by some teams at Trinny London.</p>"
+k6,Adopt,Tools,FALSE,"<a href=""https://k6.io/""><strong>k6</strong></a> has become a go-to tool for performance testing. We continue to be fans of how easy it is to write JavaScript code for tests, but k6 also has a low-code <a href=""https://k6.io/docs/test-authoring/test-builder"">test builder</a> to make playing with the tool even easier. The documentation shows how easy it is to add performance testing to a pipeline across <a href=""https://k6.io/docs/integrations/#continuous-integration-and-continuous-delivery"">multiple CI/CD tools</a>. Our teams find it easy to integrate <a href=""https://k6.io/docs/integrations/#result-store-and-visualization"">visualization tools</a> like <a href=""/radar/tools/grafana"">Grafana</a> and New Relic, which help them tune both infrastructure and applications. The developer friendliness and ecosystem make k6 a compelling option for investigating a system's behavior under heavy load.</p>"
+Cypress Component Testing,Assess,languages-and-frameworks,TRUE,"<p><a href=""https://docs.cypress.io/guides/component-testing/writing-your-first-component-test""><strong>Cypress Component Testing</strong></a> provides a testable component workbench to quickly build and test UI components. You can write component visual regression tests with the same API that you write end-to-end (E2E) UI tests. Although still in beta, component testing will be the most important feature in <a href=""/radar/tools/cypress"">Cypress</a> 10.</p>"
+Domain Driven Design,Assess,Techniques,TRUE,"<a href=""https://en.wikipedia.org/wiki/Domain-driven_design/""><strong>Domain-driven Design</strong></a> is a major software design approach focusing on modeling software to match a domain according to input from that domain's experts. As we grow at Trinny London these domains become bigger and thus the need for more expertise is needed and should be at the very front of our software design approach</p>"
+Serverless as a First Class,Assess,Techniques,FALSE,"<a href=""https://martinfowler.com/articles/serverless.html""><strong>Serverless as a first class</strong></a> is about Trinny London engineering being as comfrotable in a Serverless (Lambda/Cloudrun etc) enviroment as much as they are currently with a container/k8 enviroment. This includes but is not exclusive to: Tooling (Platform Utils), Architecture, Monitoring, Logs etc."
+Golang,Trial,languages-and-frameworks,FALSE,
+Event Driven Architecture,Hold,Techniques,FALSE,
+AWS X-Ray,Adopt,Tools,FALSE,
+bit.dev,Trial,languages-and-frameworks,FALSE,
+Lerna,Trial,languages-and-frameworks,TRUE,
+TurboRepo,Assess,languages-and-frameworks,TRUE,
+AWS DynamoDB,Adopt,Tools,FALSE,
+Component Library,Assess,Techniques,FALSE,
+Distributed Systems/Microservices,Adopt,Techniques,FALSE,
+Tableau,Assess,Platforms,TRUE,
+Data Spoke & Hub,Assess,Techniques,TRUE,
+Moving fulfilment into core Domain,Assess,Techniques,TRUE,
+Tech Radar,Assess,languages-and-frameworks,TRUE,
+WooCommerce,Assess,Platforms,TRUE,
+Shopify Headless ,Assess,Platforms,FALSE,
+Magento ,Assess,Platforms,TRUE,
+GA4,Trial,Platforms,FALSE,
+Prometheus,Trial,Tools,TRUE,
+Observability,Trial,Techniques,FALSE,
+ConnectPOS,Adopt,Tools,FALSE,
+Rendering at Edge,Assess,Techniques,TRUE,
+Moving till into core Domain,Assess,Techniques,TRUE,
+Dependatbot,Trial,languages-and-frameworks,FALSE,
+Contentstack ,Hold,Tools,FALSE,
+Ometria - in Data,Hold,Platforms,FALSE,
+Session management,Assess,Techniques,FALSE,
+Dyantrace,Assess,Tools,TRUE,
+NewRelic,Assess,Tools,TRUE,
+RUM,Assess,Techniques,TRUE,
+Promise level caching,Assess,Techniques,TRUE,
+Redis - Globally Consistent,Assess,Tools,TRUE,
+Multi Region,Hold,Techniques,FALSE,
+Image Sizes Optimisation,Assess,Tools,FALSE,
+Redux,Hold,languages-and-frameworks,FALSE,
+React Query,Trial,languages-and-frameworks,TRUE,
+Optimize (A/B Test),Trial,Tools,FALSE,
+MFE,Hold,languages-and-frameworks,FALSE,
+Loqate,Trial ,Tools,FALSE,
+LaunchDarkly,Adopt,Tools,FALSE,
+Auth0,Hold,Tools,FALSE,
+AWS Cognito,Hold,Tools,TRUE,
+Core vs External Domains,Assess,Techniques,TRUE,
+GraphQL,Adopt,Techniques,FALSE,
