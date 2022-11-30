@@ -54,5 +54,5 @@ BigCommerce,Assess,Platforms,TRUE,
 Moving Bundles into core Domain,Assess,Techniques,TRUE,
 Cross Mobile Testing,Assess,Techniques,TRUE,
 Testing orders in production,Assess,Techniques,FALSE,
-Hofy,Trial,Platform,TRUE,"<p><strong><a href=""https://www.hofy.com"">Hofy</a></strong> is a office equipment management platform.</p>"
+Hofy,Trial,Platforms,TRUE,"<p><strong><a href=""https://www.hofy.com"">Hofy</a></strong> is a office equipment management platform.</p>"
 
