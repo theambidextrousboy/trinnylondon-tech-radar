@@ -7,9 +7,9 @@ k6,Adopt,Tools,FALSE,"<a href=""https://k6.io/""><strong>k6</strong></a> has bec
 Cypress Component Testing,Assess,languages-and-frameworks,TRUE,"<p><a href=""https://docs.cypress.io/guides/component-testing/writing-your-first-component-test""><strong>Cypress Component Testing</strong></a> provides a testable component workbench to quickly build and test UI components. You can write component visual regression tests with the same API that you write end-to-end (E2E) UI tests. Although still in beta, component testing will be the most important feature in <a href=""/radar/tools/cypress"">Cypress</a> 10.</p>"
 Domain Driven Design,Assess,Techniques,TRUE,"<a href=""https://en.wikipedia.org/wiki/Domain-driven_design/""><strong>Domain-driven Design</strong></a> is a major software design approach focusing on modeling software to match a domain according to input from that domain's experts. As we grow at Trinny London these domains become bigger and thus the need for more expertise is needed and should be at the very front of our software design approach</p>"
 Serverless as a First Class,Assess,Techniques,FALSE,"<a href=""https://martinfowler.com/articles/serverless.html""><strong>Serverless as a first class</strong></a> is about Trinny London engineering being as comfrotable in a Serverless (Lambda/Cloudrun etc) enviroment as much as they are currently with a container/k8 enviroment. This includes but is not exclusive to: Tooling (Platform Utils), Architecture, Monitoring, Logs etc."
-Golang,Trial,languages-and-frameworks,FALSE,
-Event Driven Architecture,Hold,Techniques,FALSE,
-AWS X-Ray,Adopt,Tools,FALSE,
+Golang,Trial,languages-and-frameworks,FALSE,"<a href=""https://go.dev""><strong>Golang</strong></a>
+Event Driven Architecture,Hold,Techniques,FALSE,"<a href=""https://en.wikipedia.org/wiki/Event-driven_architecture""><strong>Event Driven Architecture</strong></a>
+AWS X-Ray,Adopt,Tools,FALSE,"<a href=""https://aws.amazon.com/xray/""><strong>AWS X Ray</strong></a>
 bit.dev,Trial,languages-and-frameworks,FALSE,
 Lerna,Trial,languages-and-frameworks,TRUE,
 TurboRepo,Assess,languages-and-frameworks,TRUE,
@@ -54,5 +54,5 @@ BigCommerce,Assess,Platforms,TRUE,
 Moving Bundles into core Domain,Assess,Techniques,TRUE,
 Cross Mobile Testing,Assess,Techniques,TRUE,
 Testing orders in production,Assess,Techniques,FALSE,
-Hofy,Trial,Platform,TRUE,
+Hofy,Trial,Platform,TRUE,"<p><strong><a href=""https://www.hofy.com"">Hofy</a></strong> is a office equipment management platform.</p>"
 
